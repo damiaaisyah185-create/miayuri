@@ -1,0 +1,37 @@
+body { background-color:pink}
+
+#logo {float:left;}
+#icon {float:right;}
+#home {clear:both;}
+#home {border-top: solid black 2px;width: 900px;}
+
+
+
+#lorem1 {font-family:Arial;float:left;width:600px;}
+#lorem1 h1 {color:red; border-bottom:solid black 2px;width:900px}
+#lorem1 img {border:solid black 2px;padding:2px}
+#title {border-bottom:solid black 2px}
+#title h1 {color:red}
+#lorem2 h3 {color:red}
+#lorem2 {font-family:Arial; float:right;width:300px;}
+#home a {margin:10px;}
+
+#footer{clear:both;}
+
+#Kotak {width:900px; background-color:white;margin:0px auto;}
+
+#home a:hover {color:red;}
+#home a{color:black; text-decoration-line:none;}
+#home a:visited {color:black;}
+
+#service1 {float:left; width:250px; background-color: white;margin:15px 15px 15px 30px; border-top:solid darkred 20px;}
+#service2 {float:left; width:250px; background-color: white;margin:15px 15px 15px 30px; border-top:solid brown 20px;}
+#service3 {float:left; width:250px; background-color: white;margin:15px 15px 15px 30px; border-top:solid darkgreen 20px;}
+
+#footer {clear:both; border-top:solid black 1px; margin:0px; padding:0px 330px;}
+
+
+
+
+
+
